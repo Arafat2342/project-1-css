@@ -1,0 +1,16 @@
+*{
+    background-color:#201f31;
+
+}
+body{
+    color: white;
+}
+figcaption{
+    color: aquamarine;
+}
+h2{
+    color:gold;
+}
+li,footer{
+    color: goldenrod;
+}
